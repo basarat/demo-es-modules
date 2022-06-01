@@ -11,8 +11,14 @@ Setup by:
 npm i
 ```
 
-Now you can start live compiling + executing by running:
+Now you can build
 
 ```sh
-npm run dev
+npm run build
+```
+
+And run
+
+```
+npm start
 ```
