@@ -1,5 +1,3 @@
-async function main() {
-  
-}
+import { helloFam } from './log';
 
-main();
+helloFam();
