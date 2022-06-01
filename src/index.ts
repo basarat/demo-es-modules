@@ -1,3 +1,3 @@
-import { helloFam } from './log';
+import { helloFam } from './log.js';
 
 helloFam();
